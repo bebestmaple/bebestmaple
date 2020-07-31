@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebestmaple)](https://github.com/anuraghazra/github-readme-stats)
 
 # 我正在学习和使用的技术、关注的技术
-CentOS、Raspbian
-PowerShell、Bash
-Kubernetes
-Docker for windows、Hyper-v、WSL2、Docker Compose
-SqlServer、MySQL、Mariadb、Sqlite
-Redis、RabbitMQ
-Nginx、IIS
-.NET（Core）
-SignlaR
-IdentityServer4
-CAP
-Ocelot、Consul
-Exceptionless
-SkyWalking
-HangFire、Quartz.Net
-NRules
+CentOS、Raspbian  
+PowerShell、Bash  
+Kubernetes  
+Docker for windows、Hyper-v、WSL2、Docker Compose  
+SqlServer、MySQL、Mariadb、Sqlite  
+Redis、RabbitMQ  
+Nginx、IIS  
+.NET（Core）  
+SignlaR  
+IdentityServer4  
+CAP  
+Ocelot、Consul  
+Exceptionless  
+SkyWalking  
+HangFire、Quartz.Net  
+NRules  
