@@ -24,12 +24,14 @@ Here are some ideas to get you started:
 CentOS、Raspbian  
 PowerShell、Bash  
 Kubernetes  
-Docker for windows、Hyper-v、WSL2、Docker Compose  
+Docker for windows、Hyper-V、WSL2、Docker Compose  
+GitHub Action  
 SqlServer、MySQL、Mariadb、Sqlite  
-Redis、RabbitMQ  
+Redis、ES  
+RabbitMQ  
 Nginx、IIS  
 .NET（Core）  
-SignlaR  
+SignlaR、WebSocket  
 IdentityServer4  
 CAP  
 Ocelot、Consul  
