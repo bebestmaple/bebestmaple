@@ -20,10 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🎍 My Skills
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=white)
+![kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
+
 
 ## ⚡ Tool
 ![VsCode](https://img.shields.io/badge/-VSCode-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
