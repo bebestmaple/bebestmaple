@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ## 🎍 My Skills
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
-![MiscroSoft SQL Server](https://img.shields.io/badge/MiscroSoft%20SQL%20Server?style=flat-square&logo=MiscroSoft%20SQL%20Server)
+![MiscroSoft SQL Server](https://img.shields.io/badge/MiscroSoft-SQL%20Server-blue?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
