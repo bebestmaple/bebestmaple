@@ -1,5 +1,9 @@
 ## 👋 Hi there 
-
+<!-- <p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/bebestmaple/count.svg" />
+</p>
+-->
 
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=bebestmaple)
 
